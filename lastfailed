@@ -1,0 +1,4 @@
+{
+  "Main.py": true,
+  "TestInvoice.py::test_CanCalucateTotalImpurePrice": true
+}
